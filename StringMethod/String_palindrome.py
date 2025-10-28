@@ -1,6 +1,6 @@
 # ------------------------------------------------------------
 # Program: Palindrome Checker for Strings
-# Author: [Your Name]
+# Author: Aviram Dhagat
 # Description:
 #   This program checks whether a given string is a palindrome.
 #   A palindrome reads the same forward and backward (e.g., "Madam", "Racecar").
