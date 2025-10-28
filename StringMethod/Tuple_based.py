@@ -1,6 +1,6 @@
 # ------------------------------------------------------------
 # Program: Element-wise Summation of Multiple Tuples
-# Author: [Your Name]
+# Author: Aviram Dhagat
 # Description:
 #   This program takes three tuples of equal length (t1, t2, t3)
 #   and creates a new tuple where each element is the sum of
