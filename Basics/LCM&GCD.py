@@ -1,6 +1,6 @@
 # ------------------------------------------------------------
 # Program: Find GCD and LCM of Two Numbers
-# Author: [Your Name]
+# Author: Aviram Dhagat
 # Description:
 #   This program calculates:
 #     1. GCD (Greatest Common Divisor) — the largest number that divides both a and b.
