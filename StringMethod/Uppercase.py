@@ -1,6 +1,6 @@
 # ------------------------------------------------------------
 # Program: Check if All Characters in a String Are Uppercase
-# Author: [Your Name]
+# Author: Aviram Dhagat
 # Description:
 #   This program takes a string input and verifies whether all
 #   alphabetic characters (ignoring spaces) are uppercase letters (A–Z).
