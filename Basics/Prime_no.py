@@ -1,6 +1,6 @@
 # ------------------------------------------------------------
 # Program: Print All Prime Numbers in a Given Range
-# Author: [Your Name]
+# Author: Aviram Dhagat
 # Description:
 #   This program takes a start and end value as input
 #   and prints all prime numbers between them (inclusive).
