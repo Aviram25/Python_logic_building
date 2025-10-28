@@ -1,6 +1,6 @@
 # ------------------------------------------------------------
 # Program: Generate Factorials from 0! to 10!
-# Author: [Your Name]
+# Author: Aviram Dhagat
 # Description:
 #   This program calculates and prints the factorial of all
 #   numbers from 0 to 10.
