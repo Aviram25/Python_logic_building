@@ -1,6 +1,6 @@
 # ------------------------------------------------------------
 # Program: Analyze Digits of a Number
-# Author: [Your Name]
+# Author: Aviram Dhagat
 # Description:
 #   This program takes an integer input and performs three analyses:
 #     1. Counts total number of digits.
