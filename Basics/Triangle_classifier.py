@@ -1,6 +1,6 @@
 # ------------------------------------------------------------
 # Program: Classify a Triangle by Its Angles
-# Author: [Your Name]
+# Author: Aviram Dhagat
 # Description:
 #   This program accepts three angles of a triangle and determines:
 #     1. If it forms a valid triangle.
