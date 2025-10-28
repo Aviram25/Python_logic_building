@@ -1,6 +1,6 @@
 # ------------------------------------------
 # Program: Check if a 3-digit number is an Armstrong number
-# Author: [Your Name]
+# Author: Aviram Dhagat
 # Description:
 #   An Armstrong number (also called a narcissistic number) is a number
 #   that is equal to the sum of the cubes of its digits.
