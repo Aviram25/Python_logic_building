@@ -1,5 +1,5 @@
 # ------------------------------------------------------------
-# Program: Employee Skill Tracker 🧑‍💻
+# Program: Employee Skill Tracker 
 # Author: Aviram Dhagat
 # Description:
 #   This program demonstrates basic dictionary operations in Python
